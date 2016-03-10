@@ -2,7 +2,7 @@
 
 title:            Minh Pham
 locale:           en_US
-url:
+#url:
 
 
 # Jekyll configuration
@@ -45,32 +45,14 @@ owner:
   avatar: minhpham-bio-photo.jpg
   bio: "NLP Researcher @ NICT"
   email: minhpham@nict.go.jp
-  disqus-shortname:
   twitter: minhpham
   facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
   github: minhpqn
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: minhpqn
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+
+# Links to include in top navigation
+# For external links add external: true
+links:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
