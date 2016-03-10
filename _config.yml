@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Minh Pham
 locale:           en_US
 url:
 
@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Minh Pham
+  avatar: minhpham-bio-photo.jpg
+  bio: "NLP Researcher @ NICT"
+  email: minhpham@nict.go.jp
   disqus-shortname:
-  twitter: #username
+  twitter: minhpham
   facebook: #username
   google:
     plus: #username
@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: minhpqn
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: minhpqn
   xing: #username
   instagram: #username
   lastfm: #username
