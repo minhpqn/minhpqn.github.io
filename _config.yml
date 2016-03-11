@@ -9,6 +9,7 @@ locale:           en_US
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+encoding: utf-8
 highlighter: rouge
 sass:
   sass_dir: _sass
