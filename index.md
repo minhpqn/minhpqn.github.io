@@ -4,7 +4,6 @@ title: About me
 tags: [about, minhpham]
 comments: false
 share: false
-
 ---
 
 I am a NLP researcher at NICT, with experience and knowledge in Natural Language Processing, Machine Learning, Data Science, Data Analysis, Information Retrieval. I have 3 years R&D experience in a research institute. I also have programming skills in C/C++, Python/Perl/Ruby and R.
