@@ -11,7 +11,7 @@ share: false
 
 *December 2015 to February 2016* 
 
-Project page: [https://bitbucket.org/minhpqn/ai2_science_model_submission](https://github.com/minhpqn/Machine-Learning-Dojo)
+Project page: [https://bitbucket.org/minhpqn/ai2_science_model_submission](https://bitbucket.org/minhpqn/ai2_science_model_submission)
 
 I developed an information retrieval-based system to compete in the Kaggle Allen AI Science Challenge. The challenge requires participants to develop systems for predicting correct answers for "multiple-choice" questions. Questions are from 8th grade science exam. My system got the rank 42 among 171 teams. In this project, I used Perl programming language for text processing, Apache Lucy for information retrieval, and Stanford CoreNLP for sentence parsing. I gained many experiences with a data science project, and using information retrieval library.
 
