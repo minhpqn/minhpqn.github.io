@@ -11,7 +11,7 @@ share: false
 
 *December 2015 to February 2016* 
 
-Project page: [https://bitbucket.org/minhpqn/ai2_science_model_submission](Project page: https://github.com/minhpqn/Machine-Learning-Dojo)
+Project page: [https://bitbucket.org/minhpqn/ai2_science_model_submission](https://github.com/minhpqn/Machine-Learning-Dojo)
 
 I developed an information retrieval-based system to compete in the Kaggle Allen AI Science Challenge. The challenge requires participants to develop systems for predicting correct answers for "multiple-choice" questions. Questions are from 8th grade science exam. My system got the rank 42 among 171 teams. In this project, I used Perl programming language for text processing, Apache Lucy for information retrieval, and Stanford CoreNLP for sentence parsing. I gained many experiences with a data science project, and using information retrieval library.
 
@@ -21,7 +21,7 @@ I developed an information retrieval-based system to compete in the Kaggle Allen
 
 *March 1st, 2016 ~ March 9th, 2016*
 
-Project page: [https://github.com/minhpqn/Machine-Learning-Dojo](Project page: https://github.com/minhpqn/Machine-Learning-Dojo)
+Project page: [https://github.com/minhpqn/Machine-Learning-Dojo](https://github.com/minhpqn/Machine-Learning-Dojo)
 
 For the purpose of improving my Python programming skill and refreshing my Machine Learning knowledge, I re-implement all programming assignments in the course Machine Learning (touch by Andrew Ng) in Python. In the course, previous programming assignments were implemented in Octave. I improved experiences of using Python scientific libraries: numpy, scikit-learn, scipy, and matplotlib. For your information, Dojo (in Japanese道場, in Vietnamese: “đạo tràng”) is “aJapanese term which refers to a training place specially for Japanese martial arts such as aikido, judo, karate, or samurai.”
 
