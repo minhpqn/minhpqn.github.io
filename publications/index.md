@@ -17,7 +17,7 @@ share: false
 * An Empirical Study of Recognizing Textual Entailment in Japanese Text. _Minh Quang Nhat Pham_, Minh Le Nguyen, Akira Shimazu. Proceedings of CICLing 2012, pp.438-449, March 2012.
 * Using Machine Translation for Recognizing Textual Entailment in Vietnamese Language. _Minh Quang Nhat Pham_, Le Minh Nguyen, Akira Shimazum. Proceedings of International Conference on Computing & Communication Technologies, Research, Innovation, and Vision for the Future (RIVF), pp.1-6, February 2012.
 * Update Legal Documents Using Hierarchical Ranking Models and Word Clustering. _Minh Quang Nhat Pham_, Minh Le Nguyen, Akira Shimazu. Legal Knowledge and Information Systems - JURIX 2010: The Twenty-Third Annual Conference on Legal Knowledge and Information Systems, Liverpool, UK, pp.163-166, December 2010.
-* A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging. Le Minh Nguyen, Bach Ngo Xuan, Cuong Nguyen Viet, _Minh Pham Quang Nhat_, Akira Shimazu. Proceedings of Second International Conference on Knowledge and Systems Engineering (KSE), pp.141-146, October 2010.1).
+* A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging. Le Minh Nguyen, Bach Ngo Xuan, Cuong Nguyen Viet, _Minh Pham Quang Nhat_, Akira Shimazu. Proceedings of Second International Conference on Knowledge and Systems Engineering (KSE), pp.141-146, October 2010.
 * Incremental text structuring with word clusters. _Minh Quang Nhat Pham_, Minh Le Nguyen, Akira Shimazu. Proceedings of the conference of the pacific association for computational linguistics (PACLING), pp.109-114, September 2009.
 
 ## Other Publications
