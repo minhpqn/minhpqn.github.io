@@ -14,6 +14,8 @@ Students and colleagues, who would like to work with me, please send me an email
 
 Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
+My homepage @ FTRI: [http://ftri.fpt.edu.vn/?page_id=1826](http://ftri.fpt.edu.vn/?page_id=1826).
+
 ## NEWS
 
 * I moved to FPT Technology Research Institute (FTRI) after nearly 9 years living and working in Japan.
