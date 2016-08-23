@@ -23,7 +23,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 * Factoid/Non-factoid Question Answering
 * Textual Entailment Recognition
 * Finding Contradiction in Text
-* Knowledge Acqusition from Web
+* Knowledge Acquisition from Web
             
 ## Education and Work Background
 
