@@ -13,6 +13,9 @@ share: false
 
 ## Peer-Reviewed Conference Proceedings
 
+* Le, H.P., Nhat, M.P., Nguyen, D., Pham, T., & Tran, T. (2017). An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing. CoRR, abs/1708.09163.
+* Duc-Tien Dang-Nguyen, Minh Dao, Quang-Nhat-Minh Pham. (2017). A Domain-based Late-Fusion for Disaster Image Retrieval from Social Media. Working Notes Proceedings of the MediaEval 2017 Workshop.
+* Quang Nhat Minh Pham, The Trung Tran. (2016). A Lightweight Ensemble Method for Sentiment Classification Task. The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016).
 * Using Shallow Semantic Parsing and Relation Extraction for Finding Contradiction in Text. _Minh Quang Nhat Pham_, Minh Le Nguyen, Akira Shimazu. Proceedings of Sixth International Joint Conference on Natural Language Processing - IJCNLP 2013, pp.1017-1021, October 2013.
 * An Empirical Study of Recognizing Textual Entailment in Japanese Text. _Minh Quang Nhat Pham_, Minh Le Nguyen, Akira Shimazu. Proceedings of CICLing 2012, pp.438-449, March 2012.
 * Using Machine Translation for Recognizing Textual Entailment in Vietnamese Language. _Minh Quang Nhat Pham_, Le Minh Nguyen, Akira Shimazum. Proceedings of International Conference on Computing & Communication Technologies, Research, Innovation, and Vision for the Future (RIVF), pp.1-6, February 2012.

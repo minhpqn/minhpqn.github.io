@@ -6,19 +6,18 @@ comments: false
 share: false
 ---
 
-I am a NLP researcher at [FPT Technology Research Institute (FTRI)](http://ftri.fpt.edu.vn/), with experience and knowledge in Natural Language Processing, Machine Learning, Data Science, Data Analysis, Information Retrieval. I have more than 3 years R&D experience in a research institute in Japan. I also have programming skills in C/C++, Python/Perl/Ruby and R.
+I am a NLP researcher, with experience and knowledge in Natural Language Processing, Machine Learning, Data Science, Data Analysis, Information Retrieval. I have more than 4 years R&D experience in a research institute in Japan and in Vietnam. I also have programming skills in Python, C/C++, Perl/Ruby and R.
 
-In free time, I love reading, learning Japanese, writing and translating some (I think) useful stuffs on my blog.
+In free time, I love reading, learning Japanese, writing and translating some (I think) useful stuffs on [my blog](https://khmt.wordpress.com/) (in Vietnamese).
 
 Students and colleagues, who would like to work with me, please send me an email to the address below.
 
 Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
-My homepage @ FTRI: [http://ftri.fpt.edu.vn/?page_id=1826](http://ftri.fpt.edu.vn/?page_id=1826).
-
 ## NEWS
 
-* I moved to FPT Technology Research Institute (FTRI) after nearly 9 years living and working in Japan.
+* I moved to a R&D labo (in Vietnam) of a Japanese start-up company. I will work
+as a NLP researcher there.
 
 ## Research Interests
 
@@ -29,7 +28,7 @@ My homepage @ FTRI: [http://ftri.fpt.edu.vn/?page_id=1826](http://ftri.fpt.edu.v
             
 ## Education and Work Background
 
-* 7/2016 - Present: FPT Technology Research Institute (FTRI)
+* 7/2016 - 11/2017: FPT Technology Research Institute (FTRI)
 * 4/2013-7/2016 National Institute of Information and Communications Technology, Japan.
 * 3/2013: Ph.D. in Information Science from Japan Advanced Institute of Science and Technology
 * 3/2010: M.Sc. in Information Science from Japan Advanced Institute of Science and Technology
