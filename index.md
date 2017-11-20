@@ -21,10 +21,13 @@ as a NLP researcher there.
 
 ## Research Interests
 
+* Dialog Systems (intent classification, slot filling, etc)
+* Applications of Deep Learning in NLP
+* Information Extraction (Named Entity Recognition, Relation Extraction, etc)
 * Factoid/Non-factoid Question Answering
-* Textual Entailment Recognition
-* Finding Contradiction in Text
-* Knowledge Acquisition from Web
+* *Textual Entailment Recognition (suspended)*
+* *Finding Contradiction in Text (suspended)*
+* *Knowledge Acquisition from Web (suspended)*
             
 ## Education and Work Background
 
