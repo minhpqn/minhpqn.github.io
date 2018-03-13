@@ -16,8 +16,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
 ## NEWS
 
-* I moved to a R&D labo (in Vietnam) of a Japanese start-up company. I will work
-as a NLP researcher there.
+* My paper "A Feature-Rich Vietnamese Named-Entity Recognition Model" has been accepted at[[CICLing 2018](https://www.cicling.org/2018/) conference.
 
 ## Research Interests
 
