@@ -16,7 +16,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
 ## NEWS
 
-* My paper "A Feature-Rich Vietnamese Named-Entity Recognition Model" has been accepted at[[CICLing 2018](https://www.cicling.org/2018/) conference.
+* My paper "A Feature-Rich Vietnamese Named-Entity Recognition Model" has been accepted at [CICLing 2018](https://www.cicling.org/2018/) conference.
 
 ## Research Interests
 
