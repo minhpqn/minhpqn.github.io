@@ -16,6 +16,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
 ## NEWS
 
+* Our NER system achieved the first rank at [VLSP 2018 NER Evaluation Campaign](http://vlsp.org.vn/vlsp2018). The technical report is available on arxiv: [https://arxiv.org/abs/1803.08463](https://arxiv.org/abs/1803.08463).
 * My paper "A Feature-Rich Vietnamese Named-Entity Recognition Model" has been accepted at [CICLing 2018](https://www.cicling.org/2018/) conference.
 
 ## Research Interests
