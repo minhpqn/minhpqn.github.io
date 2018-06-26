@@ -13,6 +13,7 @@ share: false
 
 ## Peer-Reviewed Conference Proceedings
 
+1. Minh-Son Dao, Pham Quang Nhat Minh, Asem Kasem, and Mohamed Saleem Haja Nazmudeen. 2018. A Context-Aware Late-Fusion Approach for Disaster Image Retrieval from Social Media. In Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval (ICMR '18). ACM, New York, NY, USA, 266-273. DOI: https://doi.org/10.1145/3206025.3206047. [link](https://dl.acm.org/citation.cfm?doid=3206025.3206047)
 1. Pham Quang Nhat Minh. (2018). A Feature-Rich Vietnamese Named-Entity Recognition Model. In Proceedings of CICLing 2018 (to appear). [arxiv pre-print](https://arxiv.org/abs/1803.04375). 
 2. Le, H.P., Nhat, M.P., Nguyen, D., Pham, T., & Tran, T. (2017). An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing. CoRR, abs/1708.09163.
 3. Duc-Tien Dang-Nguyen, Minh Dao, Quang-Nhat-Minh Pham. (2017). A Domain-based Late-Fusion for Disaster Image Retrieval from Social Media. Working Notes Proceedings of the MediaEval 2017 Workshop.
