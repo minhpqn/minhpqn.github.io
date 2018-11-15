@@ -16,9 +16,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
 ## NEWS
 
-* Our paper "A Context-Aware Late-Fusion Approach for Disaster Image Retrieval from Social Media" has been published on ICMR '18 Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval (Rank A conference in Multimedia Retrieval).
-* Our NER system achieved the first rank at [VLSP 2018 NER Evaluation Campaign](http://vlsp.org.vn/vlsp2018). The technical report is available on arxiv: [https://arxiv.org/abs/1803.08463](https://arxiv.org/abs/1803.08463).
-* My paper "A Feature-Rich Vietnamese Named-Entity Recognition Model" has been accepted at [CICLing 2018](https://www.cicling.org/2018/) conference.
+* I released code for **vietner**: A Feature-based Vietnamese Named-Entity Recognition Model. Github link is [here](https://github.com/minhpqn/vietner).
 
 ## Research Interests
 
@@ -32,6 +30,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
             
 ## Education and Work Background
 
+* 11/2017 - Present: NLP Researcher at Alt Vietnam Co., Ltd.
 * 7/2016 - 11/2017: FPT Technology Research Institute (FTRI)
 * 4/2013-7/2016 National Institute of Information and Communications Technology, Japan.
 * 3/2013: Ph.D. in Information Science from Japan Advanced Institute of Science and Technology
