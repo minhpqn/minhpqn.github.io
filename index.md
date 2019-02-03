@@ -16,7 +16,7 @@ Email: ```minhpham0902 at gmail.com``` (replace ```at``` by @).
 
 ## NEWS
 
-* I released code for **vietner**: A Feature-based Vietnamese Named-Entity Recognition Model. Github link is [here](https://github.com/minhpqn/vietner).
+* My journal paper "A Feature-Based Model for Nested Named-Entity Recognition at VLSP-2018 NER Evaluation Campaign" is now on press. Link: [http://www.vjs.ac.vn/index.php/jcc/article/view/13163](http://www.vjs.ac.vn/index.php/jcc/article/view/13163)
 
 ## Research Interests
 

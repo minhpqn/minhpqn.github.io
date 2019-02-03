@@ -10,6 +10,7 @@ share: false
 1. A learning-to-rank method for information updating task. _Minh Quang Nhat Pham_, Minh Le Nguyen, Bach Xuan Ngo, Akira Shimazu. Applied Intelligence, vol. 37, no. 4, pp. 499-510, 2012. Doi: 10.1007/s10489-012-0343-2.
 2. Learning to Recognize Textual Entailment in Japanese Texts with the Utilization of Machine Translation. _Minh Quang Nhat Pham_, Minh Le Nguyen, Akira Shimazu. ACM Transactions on Asian Language Information Processing, vol.11, no.4, pp.1-23, December 2012.
 3. Treatment of Legal Sentences Including Itemization Written in Japanese, English and Vietnamese - Towards Translation into Logical Forms. Makoto Nakamura, Yusuke Kimura, _Minh Quang Nhat Pham_, Le Minh Nguyen, Akira Shimazu. Information and Media Technologies, vol.5, pp. 930-949, 2010. Doi: 10.11185/imt.5.930.
+4. Pham, M. Q. N. (2018). A Feature-Based Model for Nested Named-Entity Recognition at VLSP-2018 NER Evaluation Campaign. Journal of Computer Science and Cybernetics, 34(4), 311-321. Link: [http://www.vjs.ac.vn/index.php/jcc/article/view/13163](http://www.vjs.ac.vn/index.php/jcc/article/view/13163)
 
 ## Peer-Reviewed Conference Proceedings
 
